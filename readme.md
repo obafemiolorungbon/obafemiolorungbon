@@ -1,8 +1,8 @@
 ## 👋 Hey Vistor! Welcome to my Github Profile.
 
-### TL,DR: I am a backend developer, sometimes i pry into frontend stuff.
+### TL,DR: I am a full stack developer, who loves to create magic on the web.
 <p align="center">
-<img src='./avataaars.png' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<img src='./avataaars.png' style="width:500px; height:500px;" title="Profile Pic" alt="Please refresh the page if my avatar doesn't show up.">
 </p>
 
 ##	&#x260E; Contact me - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/obafemijoseph/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/__Datadriven) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='hashnode' height='20'>](https://hashnode.com/@Obafemi/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='25'>](https://dev.to/)
@@ -20,9 +20,8 @@
     
 ### Personal Philosophy
 
-Backend developer looking to contribute to open source and also, you know, maybe, earn a living writting software. Just Kidding, everybody is ready to pay you when you are good enough.
-
-Currently learning tons of technology, valley of despair, if I am to be specific. I try to share my learnings [here](https://hashnode.com/@Obafemi)
+Fullstack Developer writting NodeJs servers and React for client applications.
+I share my thoughts on interesting concepts [here](https://hashnode.com/@Obafemi)
 
 You will find repositories on my page where I worked with some of these
 <p align="center">
@@ -32,7 +31,7 @@ You will find repositories on my page where I worked with some of these
 </p>
 
 ### Get in Touch
-* Twitter : [Tweet at me](https://twitter.com/__Datadriven?s=20)
+* Twitter : [Tweet at me](https://twitter.com/_devobs?s=20)
 * Blog: [Hashnode](https://hashnode.com/@Obafemi)
 * LinkedIn: [Obafemi Joseph Olorungbon](https://www.linkedin.com/in/obafemijoseph/)
 
