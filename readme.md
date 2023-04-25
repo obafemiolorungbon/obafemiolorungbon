@@ -1,9 +1,6 @@
 ## 👋 Hey Vistor! Welcome to my Github Profile.
 
-### TL,DR: I am a full stack developer, who loves to create magic on the web.
-<p align="center">
-<img src='./avataaars.png' style="width:500px; height:500px;" title="Profile Pic" alt="Please refresh the page if my avatar doesn't show up.">
-</p>
+Full stack developer, who loves to create magic on the web.
 
 ##	&#x260E; Contact me - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/obafemijoseph/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/__Datadriven) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='hashnode' height='20'>](https://hashnode.com/@Obafemi/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='25'>](https://dev.to/)
 
