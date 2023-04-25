@@ -36,20 +36,6 @@ Full stack developer, who loves to create magic on the web.
   <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api?username=obafemiolorungbon&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Obafemi Olorungbon Joseph's GitHub Stats" />
 </a>  
   
-  
-    
-### Personal Philosophy
-
-Fullstack Developer writting NodeJs servers and React for client applications.
-I share my thoughts on interesting concepts [here](https://hashnode.com/@Obafemi)
-
-You will find repositories on my page where I worked with some of these
-<p align="center">
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
-</p>
-
 ### Get in Touch
 * Twitter : [Tweet at me](https://twitter.com/_devobs?s=20)
 * Blog: [Hashnode](https://hashnode.com/@Obafemi)
