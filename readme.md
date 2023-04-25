@@ -1,6 +1,29 @@
-## 👋 Hey Vistor! Welcome to my Github Profile.
-
 Full stack developer, who loves to create magic on the web.
+
+### Languages
+- Typescript
+- Javascript
+- Python
+
+### Frameworks
+- ReactJS
+- NestJS
+- NextJs
+- Molecular
+- React Native
+- Angular (One Project)
+- Ionic (One project)
+
+### Tools
+- Android Studio
+- Xcode
+- Bit (bit.io)
+- Docker
+
+### Interests 
+ - Animations on the web
+ - FFMpeg
+ - AI integration with existing systems
 
 ##	&#x260E; Contact me - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/obafemijoseph/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/__Datadriven) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='hashnode' height='20'>](https://hashnode.com/@Obafemi/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='25'>](https://dev.to/)
 
